@@ -1,4 +1,4 @@
-#Langkah-langkah:
+# Langkah-langkah:
 
 - Pertama kita membuat perintah untuk menginput bilangan pertama sampai ketiga. Dengan perintah:
 ```python
