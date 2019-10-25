@@ -1,4 +1,5 @@
 #Langkah-langkah:
+
 - Pertama kita membuat perintah untuk menginput bilangan pertama sampai ketiga. Dengan perintah:
 ```python
 a = int(input("Bilangan 1: "))
